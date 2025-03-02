@@ -51,4 +51,6 @@
 [Instagram]: https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
 [instagram-url]: https://www.instagram.com/hardikgohilhlr/
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=HardikGohilHLR)
+
 ## Thank you.
