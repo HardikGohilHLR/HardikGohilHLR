@@ -49,7 +49,7 @@
 [linkedin-url]: https://www.linkedin.com/in/hardikgohilhlr/
 
 [Instagram]: https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
-[instagram-url]: https://www.instagram.com/hardikgohilhlr/
+[instagram-url]: https://startupslab.site
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=HardikGohilHLR)
 
