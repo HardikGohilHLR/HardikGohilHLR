@@ -2,7 +2,7 @@
 
 ## Full Stack Developer
 
-## Portfolio - [Hardik Gohil](https://hardikgohilhlr.tech)
+## Portfolio - [Hardik Gohil](https://hardikgohil.space)
 
 ### Front-End
 
